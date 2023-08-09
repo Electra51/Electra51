@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Safayet Nur</h1>
-<h3 align="center">A passionate, confident, enthusiastic, and hard working MERN Stack developer with a flair for creating elegant solutions.</h3>
+<h3 align="center">A passionate, confident, enthusiastic, and hard working MERN Stack developer.</h3>
 <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-6540746-5540750.mp4?h=700" align="right" width="400"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=electra51&label=Profile%20views&color=0e75b6&style=flat" alt="electra51" /> </p>
