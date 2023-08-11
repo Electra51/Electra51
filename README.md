@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Safayet Nur</h1>
 <h3 align="center">A passionate, confident, enthusiastic, and hard working MERN Stack developer.</h3>
-<img src="https://i.ibb.co/RSqtgh8/601014116770475-6068beff4640a.gif" alt="img" align="right" width="400"></img>
+<img src="https://i.ibb.co/RSqtgh8/601014116770475-6068beff4640a.gif" alt="img" align="right" width="350"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=electra51&label=Profile%20views&color=0e75b6&style=flat" alt="electra51" /> </p>
 
