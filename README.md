@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/1sDGYxQ/Group-14.png" width="1280" alt="banner"></img>
+<img src="https://i.ibb.co/7K8VT8r/Group-16.png" width="1280" alt="banner"></img>
 
 <h1 align="center">Hi 👋, I'm Safayet Nur</h1>
 <h3 align="center">A passionate, confident, enthusiastic, and hard working MERN Stack developer.</h3>
