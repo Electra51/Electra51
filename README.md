@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [Merchantbay](https://www.merchantbay.com/)
 
-- 👨‍💻 All of my projects are available at [https://nextjs-my-portfolio.vercel.app/](https://nextjs-my-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [[https://nextjs-my-portfolio.vercel.app/](https://nextjs-my-portfolio-electra51.vercel.app/)]
 
 - 💬 Ask me about **React JS, Next JS,HTML,CSS,Javascript(ES6)**
 
