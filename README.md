@@ -6,12 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=electra51&label=Profile%20views&color=0e75b6&style=flat" alt="electra51" /> </p>
 
-- 🔭 I’m currently working on [Fashion AI](http://159.223.71.247:3000/)
-
-- 🌱 I’m currently learning **Typescript, Redux, PostgreSQL, Ant Design**
-
-- 👯 I’m looking to collaborate on [Merchantbay](https://www.merchantbay.com/)
-
 - 👨‍💻 All of my projects are available at [[https://nextjs-my-portfolio.vercel.app/](https://nextjs-my-portfolio-electra51.vercel.app/)]
 
 - 💬 Ask me about **React JS, Next JS,HTML,CSS,Javascript(ES6)**
