@@ -1,8 +1,5 @@
-<img src="https://i.ibb.co/7K8VT8r/Group-16.png" width="1280" alt="banner"></img>
-
-
 <h1 align="center">Hi 👋, I'm Safayet Nur</h1>
-<h3 align="center">A passionate, confident, enthusiastic, and hard working MERN Stack developer.</h3>
+<h3 align="center">A passionate, confident, enthusiastic, and hard working Frontend developer.</h3>
 <img src="https://i.ibb.co/RSqtgh8/601014116770475-6068beff4640a.gif" alt="img" align="right" width="350"></img>
 
 
@@ -12,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [[https://nextjs-my-portfolio.vercel.app/](https://nextjs-my-portfolio-electra51.vercel.app/)]
 
 
-- 💬 Ask me about **React JS, Next JS,HTML,CSS,Javascript(ES6)**
+- 💬 Ask me about **React JS, Next JS, HTML, CSS, Javascript(ES6), Typescript**
 
 
 - 📫 How to reach me **safayetnurelectra@gmail.com**
@@ -36,3 +33,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=electra51&show_icons=true&locale=en" alt="electra51" /></p>
+
+
+<img src="https://i.ibb.co/7K8VT8r/Group-16.png" width="1280" alt="banner"></img>
