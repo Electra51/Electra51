@@ -2,7 +2,6 @@
 <h3 align="center">
 Frontend Developer | React • Next.js • TypeScript
 </h3>
-
 <p align="center">
 I build scalable, high-performance web applications with clean UI, modern UX, and maintainable code.
 </p>
@@ -23,6 +22,7 @@ I build scalable, high-performance web applications with clean UI, modern UX, an
 ---
 
 ### 👨‍💻 About Me
+
 - 🔹 Frontend Developer with **2+ years** of hands-on experience  
 - 🔹 Strong in **React, Next.js, TypeScript & Tailwind CSS**  
 - 🔹 Passionate about **clean code, performance & UI/UX**  
@@ -30,22 +30,39 @@ I build scalable, high-performance web applications with clean UI, modern UX, an
 
 ---
 
+### 📊 Contribution Activity
+
+<div align="center">
+
+| 📊 Total Contributions | 🔥 Current Streak | 🏆 Longest Streak |
+|:----------------------:|:-----------------:|:-----------------:|
+| **33** | **0** | **2** |
+| *Aug 24, 2024 - Present* | *Jan 28* | *Aug 31, 2024 - Sep 1, 2024* |
+
+</div>
+
+---
+
 ### 🌐 Portfolio
+
 🔗 **https://nextjs-my-portfolio-electra51.vercel.app**
 
 ---
 
 ### 💬 Ask Me About
+
 **React • Next.js • JavaScript (ES6+) • TypeScript • HTML • CSS • Tailwind**
 
 ---
 
 ### 📫 Contact Me
+
 📧 **safayetnurelectra@gmail.com**
 
 ---
 
 ### 🤝 Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/safayet-nur/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" />
@@ -67,6 +84,7 @@ I build scalable, high-performance web applications with clean UI, modern UX, an
 ---
 
 ### 🛠️ Languages & Tools
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
@@ -83,6 +101,7 @@ I build scalable, high-performance web applications with clean UI, modern UX, an
 ---
 
 ### 📊 GitHub Stats
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=electra51&layout=compact" />
 </p>
@@ -92,4 +111,3 @@ I build scalable, high-performance web applications with clean UI, modern UX, an
 </p>
 
 <img src="https://i.ibb.co/7K8VT8r/Group-16.png" width="100%" />
-
