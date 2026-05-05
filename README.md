@@ -27,7 +27,7 @@ I build scalable, high-performance web applications with clean UI, modern UX, an
 ---
 
 ### 👨‍💻 About Me
-- 🔹 Frontend Developer with **2+ years** of hands-on experience  
+- 🔹 Frontend Developer with **3 years** of hands-on experience  
 - 🔹 Strong in **React, Next.js, TypeScript & Tailwind CSS**  
 - 🔹 Passionate about **clean code, performance & UI/UX**  
 - 🔹 Experience working on **real-world production projects**
