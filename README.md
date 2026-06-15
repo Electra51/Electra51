@@ -113,9 +113,9 @@ Modern coffee shop web application.
 **Tech Stack:**
 React.js, Tailwind CSS, Firebase
 
-🔗 Live Demo: [LINK](https://coffee-landing-page-two.vercel.app/)
+🔗 Live Demo: [Visit Site](https://coffee-landing-page-two.vercel.app/)
 
-🔗 Repository: [LINK](https://github.com/Electra51/coffeELive)
+🔗 Repository: [View Code](https://github.com/Electra51/coffeELive)
 
 ---
 
