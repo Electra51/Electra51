@@ -139,7 +139,7 @@ React.js, Tailwind CSS, Firebase
 
 - Portfolio: https://safayet-nur-portfolio.vercel.app
 - Email: safayetnurelectra@gmail.com
-- LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/safayet-nur/)
+- LinkedIn: [https://linkedin.com/in/safayet-nur/](https://www.linkedin.com/in/safayet-nur/)
 
 ---
 
