@@ -6,7 +6,7 @@ Building scalable and responsive web applications with modern technologies.
 </p>
 
 <p align="center">
-  <a href="https://safayet-nur-portfolio.vercel.app">
+  <a href="https://safayetnur-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
   </a>
   <a href="mailto:safayetnurelectra@gmail.com">
