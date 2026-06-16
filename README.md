@@ -24,6 +24,7 @@ Building scalable and responsive web applications with modern technologies.
 - 💻 Frontend Developer with 3+ years of hands-on experience
 - ⚛️ Specialized in React.js, Next.js and TypeScript
 - 🎨 Strong focus on responsive UI/UX and clean code
+- 🤖 Exploring AI-assisted development, MCP servers, and modern developer tooling.
 - 🌱 Currently learning Backend Architecture & System Design
 - 🤝 Open to Frontend Developer opportunities
 
