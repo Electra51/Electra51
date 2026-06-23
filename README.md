@@ -34,7 +34,7 @@ Building scalable and responsive web applications with modern technologies.
 
 ### Frontend
 
-![React](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,antd,redux,mui,bootstrap)
+![React](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,antdesign,redux,mui,bootstrap)
 
 ### Backend
 
