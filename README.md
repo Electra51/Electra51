@@ -34,7 +34,14 @@ Building scalable and responsive web applications with modern technologies.
 
 ### Frontend
 
-![React](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,antdesign,redux,mui,bootstrap)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?logo=antdesign&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 ### Backend
 
