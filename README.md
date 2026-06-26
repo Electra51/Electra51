@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Safayet Nur</h1>
-<h3 align="center">Frontend Developer | React.js | Next.js | TypeScript</h3>
+<h3 align="center">Frontend Developer | React.js | Next.js | TypeScript | Node.js</h3>
 
 <p align="center">
 Building scalable and responsive web applications with modern technologies.
