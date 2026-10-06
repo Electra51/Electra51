@@ -21,12 +21,13 @@ Building scalable, responsive, and user-focused web applications with modern fro
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer with 3+ years of hands-on experience
-- ⚛️ Specialized in React.js, Next.js and TypeScript
-- 🎨 Strong focus on responsive UI/UX and clean code
-- 🤖 Exploring AI-assisted development, MCP servers, and modern developer tooling.
-- 🌱 Currently learning Backend Architecture & System Design
-- 🤝 Open to Frontend Developer opportunities
+- 💻 Frontend-Focused Full-Stack Developer with 3+ years of professional experience
+- ⚛️ Strong expertise in React.js, Next.js, TypeScript, and modern frontend development
+- 🎨 Focused on building responsive, accessible, and user-friendly interfaces
+- 🛠️ Expanding into backend development with Node.js, Express.js, PostgreSQL, and Prisma
+- 🏗️ Interested in scalable backend architecture, REST APIs, authentication, and system design
+- 🤖 Exploring AI-assisted development and modern developer tooling
+- 🤝 Open to Frontend and Full-Stack Developer opportunities
 
 ---
 
@@ -43,7 +44,15 @@ Building scalable, responsive, and user-focused web applications with modern fro
 
 ### Backend
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose)
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
+
+### Database
+
+![Database](https://skillicons.dev/icons?i=postgresql,mongodb)
+
+### ORM / ODM
+
+![ORM / ODM](https://skillicons.dev/icons?i=prisma,mongoose)
 
 ### Tools
 
