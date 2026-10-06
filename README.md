@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Safayet Nur</h1>
-<h3 align="center">Frontend Developer | React.js | Next.js | TypeScript | Node.js</h3>
+<h3 align="center">Frontend-Focused Full-Stack Developer | React.js | Next.js | TypeScript | Node.js | PostgreSQL</h3>
 
 <p align="center">
-Building scalable and responsive web applications with modern technologies.
+Building scalable, responsive, and user-focused web applications with modern frontend and backend technologies.
 </p>
 
 <p align="center">
